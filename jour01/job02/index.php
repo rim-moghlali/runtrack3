@@ -1,5 +1,5 @@
 <?php 
-
+    
 ?>
 
 <!DOCTYPE html>
@@ -9,10 +9,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <title></title>
 
-        <script>
-            var str = "Hello Javascript!";
-            alert(str);
-        </script>
+        <script src="script.js"></script>
     </head>
     <body>
 
